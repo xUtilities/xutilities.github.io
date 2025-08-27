@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     moreGamesLink.style.zIndex = "10000";
 
     // Set up the image (<img>) element
-    moreGamesImage.src = "/assets/images/icons/logo.png"; // Placeholder image URL
+    moreGamesImage.src = "logo.png"; // Placeholder image URL
     moreGamesImage.alt = "More Games Icon";
     moreGamesImage.style.width = "40px"; // Adjust width as needed
     moreGamesImage.style.height = "40px"; // Adjust height as needed
